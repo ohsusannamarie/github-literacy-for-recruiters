@@ -38,6 +38,14 @@ GitHub says:
 
 Code is what made GitHub famous. **Code is not the only thing GitHub can hold.**
 
+### Still feels abstract? Think community library.
+
+Imagine a shared digital library where people can browse the shelves, save the library to their favorites, subscribe to updates, request new resources, make their own copy of the entire collection, propose additions, and see exactly who changed what over time.
+
+That is surprisingly close to how GitHub works.
+
+Read [The Community Library: GitHub Without Code](01-start-here/the-community-library.md), then try the model yourself in our [Community Recruiting Library](07-community-library/README.md).
+
 ---
 
 ## Start here
@@ -46,16 +54,24 @@ Code is what made GitHub famous. **Code is not the only thing GitHub can hold.**
 
 1. [What is GitHub?](01-start-here/what-is-github.md)
 2. [GitHub vs. Google Drive](01-start-here/github-vs-google-drive.md)
-3. [Git vs. GitHub](01-start-here/git-vs-github.md)
-4. [Learn the language](02-learn-the-language/README.md)
-5. [Use GitHub yourself](05-use-github-yourself/README.md)
+3. [The Community Library: GitHub Without Code](01-start-here/the-community-library.md)
+4. [Git vs. GitHub](01-start-here/git-vs-github.md)
+5. [Learn the language](02-learn-the-language/README.md)
+6. [Use GitHub yourself](05-use-github-yourself/README.md)
 
 ### Track 2: Become a better GitHub sourcer
 
-6. [Read a GitHub profile](03-read-a-github-profile/README.md)
-7. [Understand signal vs. noise](03-read-a-github-profile/signal-vs-noise.md)
-8. [Find evidence of expertise](04-github-for-sourcing/evaluating-evidence.md)
-9. [Practice with the scavenger hunt](06-practice/scavenger-hunt.md)
+7. [Read a GitHub profile](03-read-a-github-profile/README.md)
+8. [Understand signal vs. noise](03-read-a-github-profile/signal-vs-noise.md)
+9. [Find evidence of expertise](04-github-for-sourcing/evaluating-evidence.md)
+10. [Practice with the scavenger hunt](06-practice/scavenger-hunt.md)
+
+### Track 3: Participate in GitHub without writing code
+
+11. [Browse the Community Recruiting Library](07-community-library/README.md)
+12. Suggest a resource through an Issue
+13. [Contribute a resource or improvement](CONTRIBUTING.md)
+14. Submit your first pull request
 
 ---
 
@@ -69,7 +85,7 @@ This repo is intentionally interactive.
 - 👀 **Watch this repository** - experience GitHub notifications.
 - 💬 **Open an issue** - introduce yourself and share one GitHub concept you want demystified.
 - 🍴 **Fork this repository** - create your own copy.
-- ✍️ **Contribute** - improve an analogy, example, or recruiter explanation and submit a pull request.
+- ✍️ **Contribute** - improve an analogy, example, resource, or recruiter explanation and submit a pull request.
 
 You don't have to write code to do any of those things.
 
@@ -79,13 +95,13 @@ You don't have to write code to do any of those things.
 
 | GitHub concept | Recruiter-friendly translation |
 | --- | --- |
-| Repository | Project folder |
-| README | Project homepage / executive summary |
+| Repository | Project folder, or think of it as the whole community library |
+| README | Project homepage / executive summary / library front desk |
 | Commit | A saved change with a note explaining what changed |
 | Commit history | Project timeline and audit trail |
 | Branch | A safe working copy for experimenting |
 | Pull request | Proposed changes submitted for review |
-| Issue | Task, idea, question, bug, or discussion item |
+| Issue | Task, idea, question, bug, discussion item, or resource request |
 | Fork | Your own connected copy of someone else's project |
 | Star | Bookmark + public interest signal |
 | Watch | Subscribe to updates |
@@ -142,7 +158,11 @@ If an explanation doesn't make sense, open an issue.
 
 If you have a better analogy, submit it.
 
+If you find a legitimate resource for the Community Recruiting Library, request it or contribute it.
+
 If you teach technical sourcing and have an exercise that belongs here, contribute it.
+
+Read the full [contribution guide](CONTRIBUTING.md).
 
 The whole point is to learn how collaborative GitHub feels from the inside.
 
